@@ -109,7 +109,7 @@ Before running this application, make sure you have the following installed:
 
 ### Live Demo
 
-🚀 **Live Application**: [Genify - AI Text-to-Image Generator](https://genify-ai.vercel.app/)
+🚀 **Live Application**: [Genify - AI Text-to-Image Generator](https://genify-px1i.onrender.com/)
 
 **Note**: The live demo may have limited credits or features compared to the full local setup.
 

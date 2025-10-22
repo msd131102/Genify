@@ -88,6 +88,8 @@ Before running this application, make sure you have the following installed:
 
 ## Running the Application
 
+### Local Development
+
 1. **Start the backend server**
    ```bash
    cd server
@@ -103,7 +105,13 @@ Before running this application, make sure you have the following installed:
    The client will run on `http://localhost:5173`
 
 3. **Access the application**
-   Open your browser and navigate to `http://localhost:5173` 
+   Open your browser and navigate to `http://localhost:5173`
+
+### Live Demo
+
+🚀 **Live Application**: [Genify - AI Text-to-Image Generator](https://genify-ai.vercel.app/)
+
+**Note**: The live demo may have limited credits or features compared to the full local setup.
 
 ## Usage
 

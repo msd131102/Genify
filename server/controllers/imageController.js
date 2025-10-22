@@ -10,7 +10,7 @@ const generateImage = async (req, res) => {
     if (!user || !prompt) {
       return res.json({ success: false, message: "Missing details." });
     }
-    if (user.creditBalance === 0 || userModel.creditBalance < 0) {
+    if (user.creditBalance === 0 || user.creditBalance < 0) {
       return res.json({
         success: false,
         message: "No credit balance",

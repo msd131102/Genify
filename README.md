@@ -1,4 +1,6 @@
 # Genify - AI Text-to-Image Generator
+![alt text]()
+
 
 Genify is an innovative AI-powered application that transforms text descriptions into stunning images in seconds. Built with modern web technologies, it offers a seamless user experience for creative image generation.
 

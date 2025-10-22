@@ -103,7 +103,7 @@ Before running this application, make sure you have the following installed:
    The client will run on `http://localhost:5173`
 
 3. **Access the application**
-   Open your browser and navigate to `http://localhost:5173`
+   Open your browser and navigate to `http://localhost:5173` 
 
 ## Usage
 
